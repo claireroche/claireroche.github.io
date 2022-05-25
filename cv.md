@@ -19,12 +19,26 @@ aside: true
 
 # Skills
 
-* Fortran 90
-* Latex
-* Git
-* MPI/OpenMP
-* Other skills :
-  * C++
+* Programming
+  * Fortran 90
+  * C++ (Beginner)
+  * MPI/OpenMP
+  * Git
+
+* Visualisation
+  * Paraview
+  * Visit
+
+* Writing
+  * Latex
+
+* Other skills
+  * Python
+
+* Languages
+  * French (Native)
+  * English (B2 - TOEIC: 870)
+  * Spanish (Beginner)
 
 
 
