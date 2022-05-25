@@ -23,6 +23,7 @@ aside: true
   * Fortran 90
   * C++ (Beginner)
   * MPI/OpenMP
+  * Python
 
 * Tools
   * Git
@@ -31,9 +32,6 @@ aside: true
 * Software
   * Paraview
   * Visit
-
-* Other skills
-  * Python
 
 * Languages
   * French (Native)
