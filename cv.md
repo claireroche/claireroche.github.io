@@ -23,9 +23,11 @@ aside: true
   * Fortran 90
   * C++ (Beginner)
   * MPI/OpenMP
+
+* Tools
   * Git
 
-* Visualization
+* Software
   * Paraview
   * Visit
 
