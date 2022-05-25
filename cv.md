@@ -26,13 +26,11 @@ aside: true
 
 * Tools
   * Git
+  * Latex / Tikz
 
 * Software
   * Paraview
   * Visit
-
-* Writing
-  * Latex
 
 * Other skills
   * Python
