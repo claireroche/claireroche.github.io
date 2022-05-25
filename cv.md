@@ -1,9 +1,9 @@
 ---
-title: Elements
+title: CV
 feature_text: |
   Curriculum Vitae
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Curriculum Vitae"
 aside: true
 ---
 
