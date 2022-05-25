@@ -25,7 +25,7 @@ aside: true
   * MPI/OpenMP
   * Git
 
-* Visualisation
+* Visualization
   * Paraview
   * Visit
 
@@ -39,3 +39,4 @@ aside: true
   * French (Native)
   * English (B2 - TOEIC: 870)
   * Spanish (Beginner)
+
