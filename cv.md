@@ -30,6 +30,7 @@ aside: true
   * Latex / Tikz
 
 * Software
+  * GMSH
   * Paraview
   * Visit
 
