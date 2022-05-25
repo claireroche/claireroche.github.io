@@ -13,8 +13,4 @@ Ph.D student at CEA working on generation of 3d hexahedral mesh for atmospheric 
 
 ### Contact form
 
-{% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
+[comment]: <> ({% include site-form.html %})
