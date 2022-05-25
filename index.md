@@ -8,6 +8,8 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 ---
 
 {% include figure.html image="/images/ID.png" position="right" width="150" border-radius="50%" %}
+<a href="url"><img src="/images/ID.png" height="auto" width="200" style="border-radius:50%"></a>
+
 
 Ph.D student at CEA working on generation of 3d hexahedral mesh for atmospheric re-entry.
 
