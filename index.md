@@ -13,6 +13,6 @@ Ph.D student at CEA working on generation of 3d hexahedral mesh for atmospheric 
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#0366d6" %}
 
-### Contact form
+[comment]: <> (### Contact form)
 
 [comment]: <> ({% include site-form.html %})
