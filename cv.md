@@ -22,8 +22,7 @@ aside: true
 * Fortran 90
 * Latex
 * MPI/OpenMP
-* Other skills :
-* * C++
+* Other skills : * C++
 
 
 
