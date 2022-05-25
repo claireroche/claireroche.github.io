@@ -7,17 +7,14 @@ excerpt: "Curriculum Vitae"
 aside: true
 ---
 
-# Heading 1
+# Education
 
-## Heading 2
+[comment]: <> (* **Ph.D in Computer Science**)
+* **Engineer Degree** in Mathematics and Mechanics, ENSEIRB-MATMECA, Bordeaux, France, 2021.
+* **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.
 
-### Heading 3
 
-#### Heading 4
 
-##### Heading 5
-
-###### Heading 6
 
 <small>A small element</small>
 
