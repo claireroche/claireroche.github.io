@@ -23,7 +23,7 @@ aside: true
 * Latex
 * MPI/OpenMP
 * Other skills :
-** C++
+* * C++
 
 
 
