@@ -9,7 +9,7 @@ aside: true
 
 # Education
 
-[comment]: <> (* **Ph.D in Computer Science**)
+* **Ph.D in Computer Science**, Paris-Saclay University, CEA, 2024 (**expected**)
 * **Engineer Degree** in Mathematics and Mechanics, ENSEIRB-MATMECA, Bordeaux, France, 2021.
 * **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.
 
