@@ -18,6 +18,14 @@ aside: true
 * Feb. 2021 - Aug. 2021 : Internship at CEA
   * **Consideration of wall deformations in the simulation of aerodynamic flows**. Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
   * Fortran 90, Paraview, Visit
+  * Supervisors: Marina OLAZABAL-LOUME, Jérôme BREIL
+
+# Projects
+
+* 2020 - 2021 : **Mesh adaptation in PETCs**
+  * Replacing Pragmatic remesher with MMG in PETSc
+  * C
+  * Supervisor: Nicolas BARRAL
 
 # Skills
 
