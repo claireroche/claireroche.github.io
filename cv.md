@@ -15,7 +15,7 @@ aside: true
 
 # Work Experience
 
-* Internship 2021 (6 month)
+* Internship at CEA feb. 2021 - aug. 2021 : **Consideration of wall deformations in the simulation of aerodynamic flows** (Fortran 90, Paraview, Visit). Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
 
 # Skills
 
@@ -33,6 +33,11 @@ aside: true
   * GMSH
   * Paraview
   * Visit
+
+* Other skills
+  * Numerical analysis
+  * Numerical methods
+  * High performance computing
 
 * Languages
   * French (Native)
