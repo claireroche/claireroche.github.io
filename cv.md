@@ -19,6 +19,7 @@ aside: true
   * **Consideration of wall deformations in the simulation of aerodynamic flows**. Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
   * Fortran 90, Paraview, Visit
   * Supervisors: Marina OLAZABAL-LOUME, Jérôme BREIL
+  * _Details available on [Communications - ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
 # Projects
 
