@@ -9,8 +9,8 @@ aside: true
 
 # Education
 
-* **Ph.D in Computer Science**, Paris-Saclay University, CEA, 2024 (**expected**)
-* **Engineer Degree** in Mathematics and Mechanics, ENSEIRB-MATMECA, Bordeaux, France, 2021.
+* **Ph.D in Applied Mathematics & Computer Science**, Paris-Saclay University, CEA, 2024 (**expected**)
+* **Engineer Degree** in Applied Mathematics and Mechanics, ENSEIRB-MATMECA, Bordeaux, France, 2021.
 * **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.
 
 # Work Experience
