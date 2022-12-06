@@ -127,8 +127,8 @@ navigation_header:
   url: /cv/
 #- title: Blog
 #  url: /blog/
-#- title: Categories
-#  url: /categories/
+- title: Communications
+  url: /communications/
 #- title: Search
 #  url: /search/
 #- title: Fork Alembic
