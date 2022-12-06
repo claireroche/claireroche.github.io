@@ -1,6 +1,6 @@
 ---
 title: Communications
-layout: communications
+layout: categories
 excerpt: "Category index"
 aside: true
 ---
