@@ -35,15 +35,15 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+paginate: 2					# jekyll-paginate > items per page
+paginate_path: blog/page:num 	  		# jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com 		# jekyll-mentions > service used when @replying
 twitter:
-  username: Claire Roche # jekyll-seo-tag > Owners twitter username
-author: Claire Roche # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
+  username: Claire Roche			# jekyll-seo-tag > Owners twitter username
+author: Claire Roche 				# jekyll-seo-tag > default author
+social:        					# jekyll-seo-tag > social overrides
+  name: Claire Roche				# jekyll-seo-tag > real name
+  links:       					# jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/DavidDarnes
     - https://www.facebook.com/daviddarnes
     - https://www.linkedin.com/in/daviddarnes
@@ -55,17 +55,17 @@ social: # jekyll-seo-tag > social overrides
 
 # 4. Jekyll settings
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+  style: compressed			# Style compression
+permalink: pretty  			# Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> 	# Marks end of excerpt in posts
+timezone: Europe/London      		# Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Posts				# Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "My thoughts and ideas"	# The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -91,12 +91,12 @@ defaults:
       layout: page # Set the default layout for pages
 
 # 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Claire Roche" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+encoding: utf-8				# Make sure the encoding is right
+lang: en-GB 		  	        # Set the site language
+title: "Claire Roche" 		        # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg" 	        # Site logo, also used in jekyll-seo-tag
 description: "Ph.D student in Computer Science and Applied Mathematics at CEA, working on generation of 3d hexahedral mesh for atmospheric re-entry." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://alembic.darn.es" 	        # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"

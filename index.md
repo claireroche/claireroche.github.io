@@ -13,4 +13,4 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 
 Ph.D student at CEA working on generation of 3d hexahedral mesh for atmospheric re-entry.
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#0366d6" %} {% include button.html text="ORCID" image="/images/ID.png" link="https://orcid.org/0000-0001-7763-574X" color="#a7a9ac" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#0366d6" %} {% include button.html image="/images/ID.png" link="https://orcid.org/0000-0001-7763-574X" %}
