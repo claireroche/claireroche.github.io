@@ -1,9 +1,4 @@
 <nav class="nav  nav--social">
-  {% if author.orcid %}
-      <a href="{{ author.orcid }}">
-	<i class="ai ai-orcid-square ai-fw"></i>
-      </a>
-  {% endif %}
   {% for link in site.social_links %}
     {% if link[1] != blank %}
       {% assign id = link[0] | downcase %}
