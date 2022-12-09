@@ -118,7 +118,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   180: '/assets/logos/logo@180px.png'
   512: '/assets/logos/logo@512px.png'
   1024: '/assets/logos/logo@1024px.png'
-  orcid: /assets/logos/logo_orcid.png
+  orcid: '/assets/logos/logo_orcid.png'
 
 # 9. Site navigation
 navigation_header:
@@ -143,6 +143,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 #  Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/claire-roche
   GitHub: https://github.com/claireroche
+  orcid: https://orcid.org/0000-0001-7763-574X
 #  link: https://darn.es
 #  RSS: /feed.xml
 
