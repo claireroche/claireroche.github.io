@@ -5,9 +5,14 @@
       <a href="{{ link[1] }}">
         {% include icon.html id=id title=id %}
       </a>
+      <a href="{{ link[1] }}">
+	<i class="ai ai-orcid-square ai-fw"></i>
+      </a>
     {% endif %}
       {% endfor %}
   {% if author.orcid %}
-      <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
+      <a href="{{ author.orcid }}">
+	<i class="ai ai-orcid-square ai-fw"></i>
+      </a>
   {% endif %}
 </nav>
