@@ -1,5 +1,3 @@
-{% include assets/css/academicons.css}
-
 <nav class="nav  nav--social">
   {% for link in site.social_links %}
     {% if link[1] != blank %}
@@ -9,7 +7,4 @@
       </a>
     {% endif %}
   {% endfor %}
-  {% if author.orcid %}
-    <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
-  {% endif %}
 </nav>
