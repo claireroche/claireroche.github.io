@@ -7,4 +7,7 @@
       </a>
     {% endif %}
   {% endfor %}
+  {% if author.orcid %}
+    <a href="{{ social_links.OrcID }}"><i class="ai ai-orcid-square ai-fw"></i></a>
+  {% endif %}
 </nav>
