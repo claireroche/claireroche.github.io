@@ -96,10 +96,10 @@ lang: en-GB 		  	        # Set the site language
 title: "Claire Roche" 		        # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" 	        # Site logo, also used in jekyll-seo-tag
 description: "Ph.D student in Computer Science and Applied Mathematics at CEA, working on generation of 3d hexahedral mesh for atmospheric re-entry." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" 	        # Site url, also used in jekyll-seo-tag
+url: "https://claireroche.github.io/" 	        # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/claireroche/claireroche.github.io"
+email: "claireroche47@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
