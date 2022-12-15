@@ -6,13 +6,13 @@ excerpt: "Curriculum Vitae"
 aside: true
 ---
 
-# Education
+## Education
 
 * **Ph.D in Applied Mathematics & Computer Science**, Paris-Saclay University, CEA, 2024 (**expected**).
 * **Engineer Degree** in Applied Mathematics and Mechanics, ENSEIRB-MATMECA, Bordeaux, France, 2021.
 * **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.
 
-# Work Experience
+## Work Experience
 
 * Feb. 2021 - Aug. 2021 : Internship at CEA
   * **Consideration of wall deformations in the simulation of aerodynamic flows**. Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
@@ -20,14 +20,14 @@ aside: true
   * Supervisors: Marina OLAZABAL-LOUME, Jérôme BREIL
   * _Details available on [Communications - ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
-# Projects
+## Projects
 
 * 2020 - 2021 : **Mesh adaptation in PETCs**
   * Replacing Pragmatic remesher with MMG in PETSc
   * C
   * Supervisor: Nicolas BARRAL
 
-# Skills
+## Skills
 
 * Programming
   * Fortran 90
