@@ -2,7 +2,7 @@
 title: CV
 feature_text: |
   Curriculum Vitae
-feature_image: "https://picsum.photos/2560/600?image=174"
+feature_image: "https://picsum.photos/2560/600?image=295"
 excerpt: "Curriculum Vitae"
 aside: true
 ---
