@@ -3,7 +3,7 @@ title: Home
 feature_text: |
   ## Claire Roche
   Ph.D student in Computer Science and Applied Mathematics
-feature_image: "https://picsum.photos/1300/400?image=82"
+feature_image: "https://picsum.photos/1300/400?image=152"
 excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for atmospheric re-entry."
 ---
 
