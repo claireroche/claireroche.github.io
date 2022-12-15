@@ -1,5 +1,4 @@
 ---
-title: Home
 feature_text: |
   ## Claire Roche
   Ph.D student in Computer Science and Applied Mathematics
