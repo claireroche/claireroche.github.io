@@ -16,6 +16,9 @@ aside: true
 * **Engineer Degree** in Applied Mathematics and Mechanics, ENSEIRB-MATMECA, Bordeaux, France, 2021.
   * French equivalent of a Master of Engineering degree
 * **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.
+* **Preparatory classes to Grandes Ecoles** in Mathematics and Physics, Camille-Jullian, Bordeaux.
+  * Preparatory classes for French selective engineering schools
+  * 2016 - 2018
 
 ## Work Experience
 
