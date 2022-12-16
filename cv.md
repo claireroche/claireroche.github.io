@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  Curriculum Vitae
+  ##Curriculum Vitae
 feature_image: "https://picsum.photos/2560/600?image=791"
 excerpt: "Curriculum Vitae"
 aside: true
