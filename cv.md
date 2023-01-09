@@ -51,9 +51,9 @@ _ENSEIRB-MATMECA, Bordeaux, France_
 
 ## Skills
 
-|                    |                                                                                    |                                                                                      |
-|:-------------------|:----------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------:|
-| **Programming**    |                                                                                    |                                  Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown |
-| **Softwares**      |                                                                                    |                                                CLion, gmds, Paraview, Visit, SU2 CFD |
-| **Communication** · |                                                                                    |                        French (native), English (B2 - TOEIC:870), Spanish (beginner) |
-| **Other**          |                                                                                    | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
+|                           |                                                                                      |
+|:--------------------------|:-------------------------------------------------------------------------------------|
+| **Programming**           | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
+| **Softwares**             | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
+| **Communication** &nbsp; &nbsp; | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
+| **Other**                 | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
