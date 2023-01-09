@@ -18,18 +18,16 @@ aside: true
         <b>2024 (expected)</b>
     </span>
 </p>
-
 _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET  
 
-&nbsp;
 * **Engineer Degree** in Applied Mathematics and Mechanics. 2021.  
 _ENSEIRB-MATMECA, Bordeaux, France_  
   * French equivalent of a Master of Engineering degree
 
-&nbsp;
-* **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.
 
-&nbsp;
+* **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.  
+
+
 * **Preparatory classes to Grandes Ecoles** in Mathematics and Physics, Camille-Jullian, Bordeaux.
   * Preparatory classes for French selective engineering schools
   * 2016 - 2018
@@ -57,9 +55,9 @@ _ENSEIRB-MATMECA, Bordeaux, France_
 
 ## Skills
 
-|                               |                                                                                      |
-|:------------------------------|:-------------------------------------------------------------------------------------|
-| **Programming**               | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
-| **Softwares**                 | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
-| **Communication**&nbsp;&nbsp; | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
-| **Other**                     | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
+|                                  |                                                                                      |
+|:------------------------------------------|:-------------------------------------------------------------------------------------|
+| **Programming**                           | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
+| **Softwares**                             | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
+| **Communication**&nbsp;&nbsp;&nbsp;&nbsp; | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
+| **Other**                                 | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
