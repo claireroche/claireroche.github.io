@@ -51,35 +51,9 @@ _ENSEIRB-MATMECA, Bordeaux, France_
 
 ## Skills
 
-* Programming
-  * Fortran 90
-  * C++ (Beginner)
-  * MPI/OpenMP
-  * Python
-
-* Tools
-  * Git
-  * Latex / Tikz
-
-* Softwares
-  * GMSH
-  * Paraview
-  * Visit
-
-* Other skills
-  * Numerical analysis
-  * Numerical methods
-  * High performance computing
-
-* Languages
-  * French (Native)
-  * English (B2 - TOEIC: 870)
-  * Spanish (Beginner)
-  
-  
 |                    |                                                                                    |                                                                                      |
-|:-------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------|
-| **Programming**    |                                                                                    | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
-| **Softwares**      |                                                                                    | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
-| **Communication**  |                                                                                    | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
+|:-------------------|:----------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------:|
+| **Programming**    |                                                                                    |                                  Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown |
+| **Softwares**      |                                                                                    |                                                CLion, gmds, Paraview, Visit, SU2 CFD |
+| **Communication**  |                                                                                    |                        French (native), English (B2 - TOEIC:870), Spanish (beginner) |
 | **Other**          |                                                                                    | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
