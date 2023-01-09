@@ -11,13 +11,14 @@ aside: true
 
 ## Education
 
-* **Ph.D of Applied Mathematics & Computer Science.** 
+* **Ph.D in Applied Mathematics & Computer Science.** 
   * **2024 (expected)**
   * _CEA (France) & Paris-Saclay university_  
+  * **<u>Title:</u>** 3D block-structured automatic mesh generation for atmospheric reentry computational fluid dynamics
   * _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET
 
 
-* **Engineer Degree of Applied Mathematics and Mechanics.**
+* **Engineer Degree in Applied Mathematics and Mechanics.**
   * **2021**  
   * _ENSEIRB-MATMECA, Bordeaux INP, France_  
   * French equivalent of a Master of Engineering degree
@@ -56,13 +57,13 @@ aside: true
   _Submitted to International Meshing Roundtable 2023 - under review._
 
 * Roche C, Breil J, Olazabal-Loumé M. Mesh regularization of ablating hypersonic vehicles. In _8th European
-  Congress on Computational Methods in Applied Schiences and Engineering (ECCOMAS 2022)_. Jun 2022,
+  Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022)_. Jun 2022,
   Oslo, Norway.
   * _[Proceeding ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
 ## Conferences
 
-* 8th European Congress on Computational Methods in Applied Schiences and Engineering (ECCOMAS 2022).
+* 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022).
   Oslo, Norway.
   * **5 Jun. - 9 Jun. 2022**
 
