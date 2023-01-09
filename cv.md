@@ -9,8 +9,7 @@ aside: true
 
 <center> </center>
 
-## Education
-
+## Education  
 ___
 
 * **Ph.D of Applied Mathematics & Computer Science**. Defence expected in 2024.  
@@ -30,8 +29,7 @@ _ENSEIRB-MATMECA, Bordeaux, France_
   * Preparatory classes for French selective engineering schools
   * 2016 - 2018
 
-## Work Experience
-
+## Work Experience  
 ___
 
 * Feb. 2021 - Aug. 2021 : Internship at CEA
@@ -43,8 +41,7 @@ ___
 
 
 
-## Projects
-
+## Projects  
 ___
 
 * 2020 - 2021 : **Mesh adaptation in PETCs**
@@ -55,8 +52,7 @@ ___
 
 
 
-## Skills
-
+## Skills  
 ___
 
 * Programming
@@ -92,3 +88,11 @@ ___
     <td>Fortran 90, C++</td>
   </tr>
 </table>
+
+
+|                 |                                                                                      |
+|:----------------|:-------------------------------------------------------------------------------------|
+| **Programming** | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
+| **Softwares**   | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
+| **Communication** | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
+| **Other** | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
