@@ -11,33 +11,41 @@ aside: true
 
 ## Education
 
-* **Ph.D of Applied Mathematics & Computer Science**. 
-<p style="text-align:left;">
-    <i>CEA (France) and Paris-Saclay University</i>
-    <span style="float:right;">
-        <b>2024 (expected)</b>
-    </span>
-</p>
-_Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET  
+* **Ph.D of Applied Mathematics & Computer Science.** 
+  * **2024 (expected)**
+  * _CEA (France) & Paris-Saclay university_  
+  * _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET
 
-* **Engineer Degree** in Applied Mathematics and Mechanics. 2021.  
-_ENSEIRB-MATMECA, Bordeaux, France_  
+
+* **Engineer Degree of Applied Mathematics and Mechanics.**
+  * **2021**  
+  * _ENSEIRB-MATMECA, Bordeaux INP, France_  
   * French equivalent of a Master of Engineering degree
 
 
-* **Master Degree** in Numerical Methods for High Performance Computing, University of Bordeaux, 2021.  
+* **Master Degree in Numerical Methods for High Performance Computing.** 
+  * **2021**  
+  * _Bordeaux university, France_  
 
 
-* **Preparatory classes to Grandes Ecoles** in Mathematics and Physics, Camille-Jullian, Bordeaux.
+* **Bachelor of Engineering Sciences.** 
+  * **2019**  
+  * _Bordeaux university, France_  
+
+
+* **Preparatory classes to Grandes Ecoles** in Mathematics and Physics.  
+  * **2016-2018**  
+  * _Camille-Jullian, Bordeaux, France_
   * Preparatory classes for French selective engineering schools
-  * 2016 - 2018
 
 ## Work Experience
 
-* Feb. 2021 - Aug. 2021 : Internship at CEA
-  * **Consideration of wall deformations in the simulation of aerodynamic flows**. Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
+* **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
+  * **Feb. 2021 - Aug. 2021**
+  * _CEA, France_
+  * _Supervisors:_ Marina OLAZABAL-LOUME, Jérôme BREIL
+  * Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
   * Fortran 90, Paraview, Visit
-  * Supervisors: Marina OLAZABAL-LOUME, Jérôme BREIL
   * _Details available on [Communications - ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
 
@@ -45,10 +53,11 @@ _ENSEIRB-MATMECA, Bordeaux, France_
 
 ## Projects
 
-* 2020 - 2021 : **Mesh adaptation in PETCs**
+* **Mesh adaptation in PETCs**
+  * **2020 - 2021**
+  * _Supervisor:_ Nicolas BARRAL
   * Replacing Pragmatic remesher with MMG in PETSc
   * C
-  * Supervisor: Nicolas BARRAL
 
 
 
