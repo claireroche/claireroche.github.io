@@ -14,7 +14,7 @@ aside: true
 * **Ph.D in Applied Mathematics & Computer Science.** 
   * **2024 (expected)**
   * _CEA (France) & Paris-Saclay university_  
-  * **<u>Title:</u>** 3D block-structured automatic mesh generation for atmospheric reentry computational fluid dynamics
+  * <u>Title:</u> 3D block-structured automatic mesh generation for atmospheric reentry computational fluid dynamics
   * _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET
 
 
