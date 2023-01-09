@@ -11,11 +11,11 @@ aside: true
 
 ## Education
 
-* **Ph.D of Applied Mathematics & Computer Science**. Defence expected in 2024.  
-_CEA (France) and Paris-Saclay University_  
+* **Ph.D of Applied Mathematics & Computer Science**.  
+_CEA (France) and Paris-Saclay University_. **2024 (expected)**.  
 _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET  
-
-
+  
+  
 * **Engineer Degree** in Applied Mathematics and Mechanics. 2021.  
 _ENSEIRB-MATMECA, Bordeaux, France_  
   * French equivalent of a Master of Engineering degree
@@ -55,5 +55,5 @@ _ENSEIRB-MATMECA, Bordeaux, France_
 |:-------------------|:----------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------:|
 | **Programming**    |                                                                                    |                                  Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown |
 | **Softwares**      |                                                                                    |                                                CLion, gmds, Paraview, Visit, SU2 CFD |
-| **Communication**  |                                                                                    |                        French (native), English (B2 - TOEIC:870), Spanish (beginner) |
+| **Communication** · |                                                                                    |                        French (native), English (B2 - TOEIC:870), Spanish (beginner) |
 | **Other**          |                                                                                    | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
