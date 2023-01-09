@@ -50,6 +50,21 @@ aside: true
   * _Details available on [Proceeding ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
 
+## Publications
+
+* Roche C, Breil J, Hocquellet T, Ledoux F. Block-structured quad meshing for supersonic flow simulations.
+  _Submitted to International Meshing Roundtable 2023 - under review._
+
+* Roche C, Breil J, Olazabal-Loumé M. Mesh regularization of ablating hypersonic vehicles. In _8th European
+  Congress on Computational Methods in Applied Schiences and Engineering (ECCOMAS 2022)_. Jun 2022,
+  Oslo, Norway.
+  * _[Proceeding ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
+
+## Conferences
+
+* 8th European Congress on Computational Methods in Applied Schiences and Engineering (ECCOMAS 2022).
+  Oslo, Norway.
+  * **5 Jun. - 9 Jun. 2022**
 
 
 ## Projects
