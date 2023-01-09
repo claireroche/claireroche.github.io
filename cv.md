@@ -9,8 +9,7 @@ aside: true
 
 <center> </center>
 
-## Education  
-___
+## Education
 
 * **Ph.D of Applied Mathematics & Computer Science**. Defence expected in 2024.  
 _CEA (France) and Paris-Saclay University_  
@@ -29,8 +28,7 @@ _ENSEIRB-MATMECA, Bordeaux, France_
   * Preparatory classes for French selective engineering schools
   * 2016 - 2018
 
-## Work Experience  
-___
+## Work Experience
 
 * Feb. 2021 - Aug. 2021 : Internship at CEA
   * **Consideration of wall deformations in the simulation of aerodynamic flows**. Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
@@ -41,8 +39,7 @@ ___
 
 
 
-## Projects  
-___
+## Projects
 
 * 2020 - 2021 : **Mesh adaptation in PETCs**
   * Replacing Pragmatic remesher with MMG in PETSc
@@ -52,8 +49,7 @@ ___
 
 
 
-## Skills  
-___
+## Skills
 
 * Programming
   * Fortran 90
@@ -79,20 +75,11 @@ ___
   * French (Native)
   * English (B2 - TOEIC: 870)
   * Spanish (Beginner)
-
-
-<table>
-  <colgroup span="2" class="columns"></colgroup>
-  <tr>
-    <th>Programming</th>
-    <td>Fortran 90, C++</td>
-  </tr>
-</table>
-
-
-|                 |                                                                                      |
-|:----------------|:-------------------------------------------------------------------------------------|
-| **Programming** | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
-| **Softwares**   | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
-| **Communication** | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
-| **Other** | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
+  
+  
+|                    |                                                                                    |                                                                                      |
+|:-------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------|
+| **Programming**    |                                                                                    | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
+| **Softwares**      |                                                                                    | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
+| **Communication**  |                                                                                    | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
+| **Other**          |                                                                                    | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
