@@ -44,7 +44,8 @@ aside: true
   * **Feb. 2021 - Aug. 2021**
   * _CEA, France_
   * _Supervisors:_ Marina OLAZABAL-LOUME, Jérôme BREIL
-  * Implementation of methods for refinement, regularization and adaptation of structured meshes. Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
+  * Implementation of methods for refinement, regularization and adaptation of structured meshes. 
+  * Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
   * Fortran 90, Paraview, Visit
   * _Details available on [Communications - ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
@@ -57,7 +58,6 @@ aside: true
   * **2020 - 2021**
   * _Supervisor:_ Nicolas BARRAL
   * Replacing Pragmatic remesher with MMG in PETSc
-  * C
 
 
 
