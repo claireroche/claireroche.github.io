@@ -9,41 +9,46 @@ aside: true
 
 <center> </center>
 
-## Education
+## Education  
+___
 
-* **Ph.D in Applied Mathematics & Computer Science.** 
-  * **2024 (expected)**
+**<div style="text-align: right"> 2024 (expected) </div>**
+
+* **Ph.D in Applied Mathematics & Computer Science.**
   * _CEA (France) & Paris-Saclay university_  
   * <u>Title:</u> 3D block-structured automatic mesh generation for atmospheric reentry computational fluid dynamics
   * _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET
 
 
+**<div style="text-align: right"> 2021 </div>**
+
 * **Engineer Degree in Applied Mathematics and Mechanics.**
-  * **2021**  
   * _ENSEIRB-MATMECA, Bordeaux INP, France_  
   * French equivalent of a Master of Engineering degree
 
 
-* **Master Degree in Numerical Methods for High Performance Computing.** 
-  * **2021**  
+* **Master Degree in Numerical Methods for High Performance Computing.**
   * _Bordeaux university, France_  
 
 
-* **Bachelor of Engineering Sciences.** 
-  * **2019**  
+**<div style="text-align: right"> 2019 </div>**
+
+* **Bachelor of Engineering Sciences.**  
   * _Bordeaux university, France_  
 
 
-* **Preparatory classes to Grandes Ecoles** in Mathematics and Physics.  
-  * **2016-2018**  
+**<div style="text-align: right"> 2016-2018 </div>**
+
+* **Preparatory classes to Grandes Ecoles** in Mathematics and Physics.   
   * _Camille-Jullian, Bordeaux, France_
   * Preparatory classes for French selective engineering schools
 
 ## Work Experience
+___
 
-* **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
-  * **Feb. 2021 - Aug. 2021**
-  * _CEA, France_
+**Feb. 2021 - Aug. 2021**  
+_CEA, France_  
+**Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
   * _Supervisors:_ Marina OLAZABAL-LOUME, Jérôme BREIL
   * Implementation of methods for refinement, regularization and adaptation of structured meshes. 
   * Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
@@ -52,6 +57,7 @@ aside: true
 
 
 ## Publications
+___
 
 * Roche C, Breil J, Hocquellet T, Ledoux F. Block-structured quad meshing for supersonic flow simulations.
   _Submitted to International Meshing Roundtable 2023 - conditionally accepted._
@@ -61,6 +67,7 @@ aside: true
   Oslo, Norway.
 
 ## Conferences
+___
 
 **Mar. 29 - 31, 2023**  
 (_Abstract accepted_)  
@@ -73,8 +80,9 @@ hypersonic. _Bordeaux, France_.
 
 
 ## Projects
+___
 
-* **Mesh adaptation in PETSc**
+**Mesh adaptation in PETSc**
   * **2020 - 2021**
   * _Supervisor:_ Nicolas BARRAL
   * Replacing Pragmatic remesher with MMG in PETSc
@@ -84,6 +92,7 @@ hypersonic. _Bordeaux, France_.
 
 
 ## Skills
+___
 
 |                                  |                                                                                      |
 |:------------------------------------------|:-------------------------------------------------------------------------------------|
