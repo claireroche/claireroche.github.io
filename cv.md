@@ -74,7 +74,7 @@ hypersonic. _Bordeaux, France_.
 
 ## Projects
 
-**Mesh adaptation in PETSc**
+* **Mesh adaptation in PETSc**
   * **2020 - 2021**
   * _Supervisor:_ Nicolas BARRAL
   * Replacing Pragmatic remesher with MMG in PETSc
