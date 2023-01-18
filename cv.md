@@ -62,9 +62,14 @@ aside: true
 
 ## Conferences
 
-* 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022).
-  Oslo, Norway.
-  * **5 Jun. - 9 Jun. 2022**
+**Mar. 29 - 31, 2023**  
+(_Abstract accepted_)  
+57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to
+hypersonic. _Bordeaux, France_.  
+
+
+**Jun. 5 - 9, 2022**  
+8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022). _Oslo, Norway_.
 
 
 ## Projects
