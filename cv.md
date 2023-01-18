@@ -54,7 +54,7 @@ aside: true
 ## Publications
 
 * Roche C, Breil J, Hocquellet T, Ledoux F. Block-structured quad meshing for supersonic flow simulations.
-  _Submitted to International Meshing Roundtable 2023 - under review._
+  _Submitted to International Meshing Roundtable 2023 - conditionally accepted._
 
 * Roche C, Breil J, Olazabal-Loumé M. [Mesh regularization of ablating hypersonic vehicles](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/). In _8th European
   Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022)_. Jun 2022,
