@@ -65,7 +65,7 @@ aside: true
 (_Abstract accepted_)  
 57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic. _Bordeaux, France_.
 
-**Mar. 6 - 9, 2023 **
+**Mar. 6 - 9, 2023**  
 SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/). _Amsterdam, Netherlands_.
 
 **Jun. 5 - 9, 2022**  
