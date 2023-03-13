@@ -53,8 +53,7 @@ aside: true
 
 ## Publications
 
-* Roche C, Breil J, Hocquellet T, Ledoux F. Block-structured quad meshing for supersonic flow simulations.
-  _Submitted to International Meshing Roundtable 2023 - conditionally accepted._
+* Roche C, Breil J, Hocquellet T, Ledoux F. [Block-structured quad meshing for supersonic flow simulations](https://claireroche.github.io/paper/2023/03/08/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023)_. March 2023, Amsterdam, Netherlands.
 
 * Roche C, Breil J, Olazabal-Loumé M. [Mesh regularization of ablating hypersonic vehicles](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/). In _8th European
   Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022)_. Jun 2022,
@@ -64,9 +63,10 @@ aside: true
 
 **Mar. 29 - 31, 2023**  
 (_Abstract accepted_)  
-57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to
-hypersonic. _Bordeaux, France_.  
+57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic. _Bordeaux, France_.
 
+**Mar. 6 - 9, 2023 **
+SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/). _Amsterdam, Netherlands_.
 
 **Jun. 5 - 9, 2022**  
 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022). _Oslo, Norway_.
