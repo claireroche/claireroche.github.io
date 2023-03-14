@@ -2,7 +2,7 @@
 title: Mesh regularization of ablating hypersonic vehicles
 categories:
 - Conference Proceeding
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/blossoms.png"
 ---
 
 ##### 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022), Oslo, Norway.
