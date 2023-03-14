@@ -5,7 +5,7 @@ categories:
 feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/blossoms.png"
 ---
 
-##### 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022), Oslo, Norway.
+##### {% include icon.html id=maps title=maps %} 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022), Oslo, Norway.
 
 The ablation of a vehicle during atmospheric reentry leads to a degradation of its surface state. Ablated wall interacts with the boundary layer that develops around the object. The deformation can be seen as a ripple or a roughness pattern with different characteristic amplitudes and wavelengths. The effect on the flow is taken into account either by means of modelizations or by direct simulation by applying the deformation to the mesh. Mesh regularization techniques can be used in order to take into account wall deformations during a simulation. In this work we apply our regularization directly to a mesh which has been already deformed. The meshes will be adapted for use in a parallel CFD Navier-Stokes code. A refinement of the mesh close to the wall is required to correctly capture the boundary layer, but also to accuratly represent the geometry of the wall deformation. For the numerical methods used, a constraint of orthogonality is added to the mesh impining on the wall.
 
