@@ -1,7 +1,7 @@
 ---
 title: Block-structured quad meshing for supersonic flow simulations
 categories:
-- Paper
+- Poster
 feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/blossoms.png"
 ---
 
