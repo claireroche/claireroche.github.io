@@ -1,0 +1,15 @@
+---
+title: Block-structured quad meshing for supersonic flow simulations
+categories:
+- Paper
+feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/blossoms.png"
+---
+
+##### SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023), Amsterdam, Netherlands.
+
+Quad meshing is a very well-studied domain for many years. While the problem can be globally considered as solved, many approaches do not provide suitable inputs for Computational Fluid Dynamics (CFD) and in our case for supersonic flow simulations. Such simulations require a very strong control on the cell size and direction. To our knowledge, engineers ensure this control manually using interactive software. In this work we propose an automatic algorithm to generate full quadrilateral block structured mesh for the purpose of supersonic flow simulation. We handle some simulation input like the angle of attack and the boundary layer definition. Our approach generates adequate 2D meshes and is designed to be extensible in 3D.
+
+<!-- more -->
+
+
+_Poster available on [HAL - CEA](https://hal-cea.archives-ouvertes.fr/cea-04028054)_
