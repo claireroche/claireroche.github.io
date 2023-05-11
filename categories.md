@@ -1,5 +1,5 @@
 ---
-feature_image: "https://picsum.photos/2560/600?image=106"
+feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/roses.png"
 layout: categories
 excerpt: "Category index"
 aside: true
