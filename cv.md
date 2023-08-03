@@ -41,6 +41,13 @@ aside: true
 
 ## Work Experience
 
+* **Internship** on high-order mesh rp-adaptivity for multi-material interface alignment.
+  * **May 2023 - Aug. 2023**
+  * _Lawrence Livermore National Laboratory, United-States_
+  * _Supervisor:_ Ketan MITTAL
+  * C++
+  
+  
 * **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
   * **Feb. 2021 - Aug. 2021**
   * _CEA, France_
