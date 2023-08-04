@@ -1,8 +1,8 @@
 ---
 title: 
 feature_text: |
-  ## Curriculum Vitae
-feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/lilly.png"
+  ## 
+feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/clover.png"
 excerpt: "Curriculum Vitae"
 aside: true
 ---
