@@ -8,6 +8,7 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 <center>
 <!-- {% include figure.html image="/images/ID.png" position="right" width="150" border-radius="50%" %} -->
 <img src="/images/ID.png" height="auto" position="right" width="150" style="border-radius:20%">  
+## Claire ROCHE
 </center>
 
 <center>
