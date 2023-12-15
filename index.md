@@ -7,9 +7,10 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 
 <center>
 <!-- {% include figure.html image="/images/ID.png" position="right" width="150" border-radius="50%" %} -->
-<img src="/images/ID.png" height="auto" position="right" width="150" style="border-radius:20%">  
-## Claire ROCHE
+<img src="/images/ID.png" height="auto" position="right" width="150" style="border-radius:20%">
 </center>
+
+## Claire ROCHE
 
 <center>
 {% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#000000" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/claire-roche/" color="#0366d6" %} {% include button.html text="ORCID" icon="orcid" link="https://orcid.org/0000-0001-7763-574X" color="#a7a9ac" %}
