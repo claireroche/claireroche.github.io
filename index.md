@@ -11,7 +11,7 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 
 <br>
 
-<h1> Claire ROCHE <\h1>
+<h1> Claire ROCHE </h1>
 
 </center>
 
