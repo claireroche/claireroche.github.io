@@ -7,6 +7,8 @@ aside: true
 
 <center> </center>
 
+[PDF version](https://raw.githubusercontent.com/claireroche/claireroche.github.io/7b5e3c58ff685c81888756da4780ad3d6fa45248/assets/ROCHE_Resume.pdf)
+
 ## Education
 
 * **Ph.D in Applied Mathematics & Computer Science.** 
