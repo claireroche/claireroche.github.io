@@ -71,6 +71,12 @@ collections:
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
 
+categories-order:
+  - Paper
+  - Conference Proceeding
+  - Talk
+  - Poster
+
 # 6. Jekyll collections settings
 defaults:
   -
