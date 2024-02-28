@@ -1,7 +1,7 @@
 ---
 title: Curved Hexahedral Block Structure Generation by Advancing Front
 categories:
-- Paper
+- Research Note
 feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/blossoms.png"
 ---
 
