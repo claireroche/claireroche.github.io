@@ -12,6 +12,5 @@ This  work  aims  to  provide  a  method  to  generate  block-structured meshes 
 
 <!-- more -->
 
-_Research Note available on [SIAM IMR 2024](https://internationalmeshingroundtable.com/assets/research-notes/imr32/2010.pdf)_
-
+_Research Note available on [SIAM IMR 2024](https://internationalmeshingroundtable.com/assets/research-notes/imr32/2010.pdf)_  
 _Presentation available on [HAL-CEA](https://cea.hal.science/cea-04505745)_
