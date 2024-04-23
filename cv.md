@@ -70,10 +70,10 @@ aside: true
 ## Publications
 
 * Mittal K, Dobrev V.A., Knupp P, Kolev T, Roche C, Tomov V.Z. [Mixed-Order Meshing using rp-adaptivity for Surface Alignment with Implicit Geometries](https://claireroche.github.io/paper/2024/03/07/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024)_. March 2024, Baltimore, Maryland, United-States.  
-
+  
 
 * Roche C, Breil J, Hocquellet T, Ledoux F. [Block-structured quad meshing for supersonic flow simulations](https://claireroche.github.io/paper/2023/03/08/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023)_. March 2023, Amsterdam, Netherlands.  
-
+  
   
 * Roche C, Breil J, Olazabal-Loumé M. [Mesh regularization of ablating hypersonic vehicles](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/). In _8th European
   Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022)_. Jun 2022,
