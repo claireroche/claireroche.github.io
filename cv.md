@@ -54,7 +54,7 @@ aside: true
   * _Lawrence Livermore National Laboratory, United-States_
   * _Supervisor:_ Ketan MITTAL
   * C++, Git
-  * _Detauls available on [Paper SIAM IMR 2024](https://claireroche.github.io/paper/2024/03/07/paper-imr/)_
+  * _Details available on [Paper SIAM IMR 2024](https://claireroche.github.io/paper/2024/03/07/paper-imr/)_
   
   
 * **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
@@ -82,19 +82,25 @@ aside: true
 ## Talks
 
 **Apr. 3 - 5, 2024**  
-Journées des Doctorants de la DAM. _Avrainville, France_
+_Avrainville, France_  
+Journées des Doctorants de la DAM.  
+  
+**Mar. 5 - 8, 2024**
+_Baltimore, Maryland, United-States_  
+SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024).  
+[Details of the Talk](https://claireroche.github.io/research%20note/talk/2024/03/07/research-note-imr/).  
+  
+**Mar. 29 - 31, 2023**  
+_Bordeaux, France_  
+57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic (AERO 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/29/talk-3af/).  
 
-**Mar. 5 - 8, 2024**  
-SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024). [Details of the Talk](https://claireroche.github.io/research%20note/talk/2024/03/07/research-note-imr/). _Baltimore, Maryland, United-States_.
+**Mar. 6 - 9, 2023**
+_Amsterdam, Netherlands_  
+SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/).  
 
-**Mar. 29 - 31, 2023**    
-57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic (AERO 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/29/talk-3af/). _Bordeaux, France_.
-
-**Mar. 6 - 9, 2023**  
-SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/). _Amsterdam, Netherlands_.
-
-**Jun. 5 - 9, 2022**  
-8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022). _Oslo, Norway_.
+**Jun. 5 - 9, 2022**
+_Oslo, Norway_  
+8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022).
 
 
 ## Posters
