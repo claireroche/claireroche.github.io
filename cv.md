@@ -43,7 +43,7 @@ aside: true
 * **Ph.D**
   * **Oct. 2021 - Oct. 2024 (expected)**
   * _The French Alternative Energies and Atomic Energy Commission (CEA) & Paris-Saclay University, France_
-  * _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET
+  * _Supervisors:_ [Franck LEDOUX](https://franck-ledoux.github.io/), Jérôme BREIL, Thierry HOCQUELLET
   * Development of an advancing front algorithm for linear hexahedral block structure generation around a vehicle, dedicated to flow simulation around the vehicle.
   * A posteriori block curving using Bézier elements to approximate the surface of the vehicle and discretization of the curved blocks.
   * C++, Paraview, SU2 CFD, Git
@@ -111,15 +111,15 @@ _Block-structured quad meshing for supersonic flow simulations_. SIAM Internatio
 
 **Dec. 8, 2022**  
 _Paris, France_  
-_Block-structured 2D mesh generation for supersonic flow simulation_. Scientific evaluation of the CEA in high performance computing.
+_"Block-structured 2D mesh generation for supersonic flow simulation"_. Scientific evaluation of the CEA in high performance computing.
 
 **Nov. 16, 2022**  
 _Bordeaux, France_  
-_Automatic 2D curved block-structured mesh generation for atmospheric re-entry_. Scientific evaluation of the CEA in atmospheric re-entry.
+_"Automatic 2D curved block-structured mesh generation for atmospheric re-entry"_. Scientific evaluation of the CEA in atmospheric re-entry.
 
 **May 10, 2022**  
 _Arcachon, France_  
-_Automatic hexahedral mesh generation for atmospheric re-entry_. Journée des doctorants. Best
+_"Automatic hexahedral mesh generation for atmospheric re-entry"_. Journée des doctorants. Best
 poster award.
 
 
