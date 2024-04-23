@@ -88,15 +88,17 @@ Journées des Doctorants de la DAM.
 **Mar. 5 - 8, 2024**  
 _Baltimore, Maryland, United-States_  
 SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024).  
-[Details of the Talk](https://claireroche.github.io/research%20note/talk/2024/03/07/research-note-imr/).  
+[Details of the Talk](https://claireroche.github.io/research%20note/talk/2024/03/07/research-note-imr/)  
   
 **Mar. 29 - 31, 2023**   
 _Bordeaux, France_  
-57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic (AERO 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/29/talk-3af/).  
+57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic (AERO 2023).  
+[Details of the Talk](https://claireroche.github.io/talk/2023/03/29/talk-3af/)  
 
 **Mar. 6 - 9, 2023**  
 _Amsterdam, Netherlands_  
-SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/).  
+SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023).  
+[Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/)   
 
 **Jun. 5 - 9, 2022**  
 _Oslo, Norway_  
@@ -107,7 +109,8 @@ _Oslo, Norway_
 
 **Mar. 7, 2023**  
 _Amsterdam, Netherlands_  
-_Block-structured quad meshing for supersonic flow simulations_. SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023). [Details of the Poster](https://claireroche.github.io/poster/2023/03/07/poster-imr/).
+_Block-structured quad meshing for supersonic flow simulations_. SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023).  
+[Details of the Poster](https://claireroche.github.io/poster/2023/03/07/poster-imr/)  
 
 **Dec. 8, 2022**  
 _Paris, France_  
