@@ -41,7 +41,7 @@ aside: true
 ## Work Experience
 
 * **Ph.D**
-  * ** Oct. 2021 - Oct. 2024 (expected) **
+  * **Oct. 2021 - Oct. 2024 (expected)**
   * _The French Alternative Energies and Atomic Energy Commission (CEA) & Paris-Saclay University, France_
   * _Supervisors:_ Franck LEDOUX, Jérôme BREIL, Thierry HOCQUELLET
   * Development of an advancing front algorithm for linear hexahedral block structure generation around a vehicle, dedicated to flow simulation around the vehicle.
@@ -54,6 +54,7 @@ aside: true
   * _Lawrence Livermore National Laboratory, United-States_
   * _Supervisor:_ Ketan MITTAL
   * C++, Git
+  * _Detauls available on [Paper SIAM IMR 2024](https://claireroche.github.io/paper/2024/03/07/paper-imr/)_
   
   
 * **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
@@ -68,24 +69,25 @@ aside: true
 
 ## Publications
 
-* Mittal K, Dobrev V.A., Knupp P, Kolev T, Roche C, Tomov V.Z. [Mixed-Order Meshing using rp-adaptivity for Surface Alignment with Implicit Geometries](https://claireroche.github.io/paper/2024/03/07/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024)_. March 2024, Baltimore, Maryland, United-States. 
+* Mittal K, Dobrev V.A., Knupp P, Kolev T, Roche C, Tomov V.Z. [Mixed-Order Meshing using rp-adaptivity for Surface Alignment with Implicit Geometries](https://claireroche.github.io/paper/2024/03/07/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024)_. March 2024, Baltimore, Maryland, United-States.  
+
 
 * Roche C, Breil J, Hocquellet T, Ledoux F. [Block-structured quad meshing for supersonic flow simulations](https://claireroche.github.io/paper/2023/03/08/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023)_. March 2023, Amsterdam, Netherlands.  
 
-
+  
 * Roche C, Breil J, Olazabal-Loumé M. [Mesh regularization of ablating hypersonic vehicles](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/). In _8th European
   Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2022)_. Jun 2022,
-  Oslo, Norway.
+  Oslo, Norway.  
 
 ## Talks
 
-** Apr. 3 - 5, 2024**
+**Apr. 3 - 5, 2024**  
 Journées des Doctorants de la DAM. _Avrainville, France_
 
-**Mar. 5 - 8, 2024**
+**Mar. 5 - 8, 2024**  
 SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024). [Details of the Talk](https://claireroche.github.io/research%20note/talk/2024/03/07/research-note-imr/). _Baltimore, Maryland, United-States_.
 
-**Mar. 29 - 31, 2023**   
+**Mar. 29 - 31, 2023**    
 57th 3AF International Conference on Applied Aerodynamics, High speed aerodynamics, from transonic to hypersonic (AERO 2023). [Details of the Talk](https://claireroche.github.io/talk/2023/03/29/talk-3af/). _Bordeaux, France_.
 
 **Mar. 6 - 9, 2023**  
