@@ -109,7 +109,7 @@ _Oslo, Norway_
 
 **Mar. 7, 2023**  
 _Amsterdam, Netherlands_  
-_Block-structured quad meshing for supersonic flow simulations_. SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023).  
+_"Block-structured quad meshing for supersonic flow simulations"_. SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023).  
 [Details of the Poster](https://claireroche.github.io/poster/2023/03/07/poster-imr/)  
 
 **Dec. 8, 2022**  
