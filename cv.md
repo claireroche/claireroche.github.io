@@ -72,7 +72,7 @@ aside: true
 * Mittal K, Dobrev V.A., Knupp P, Kolev T, Roche C, Tomov V.Z. [Mixed-Order Meshing using rp-adaptivity for Surface Alignment with Implicit Geometries](https://claireroche.github.io/paper/2024/03/07/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2024 (SIAM IMR 2024)_. March 2024, Baltimore, Maryland, United-States.  
   
 
-* Roche C, Breil J, Hocquellet T, Ledoux F. [Block-structured quad meshing for supersonic flow simulations](https://claireroche.github.io/paper/2023/03/08/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023)_. March 2023, Amsterdam, Netherlands.  
+* Roche C, Breil J, Hocquellet T, Ledoux F. [Block-structured quad meshing for supersonic flow simulations](https://claireroche.github.io/paper/talk/poster/2023/03/08/paper-imr/). In _SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023)_. March 2023, Amsterdam, Netherlands.  
   
   
 * Roche C, Breil J, Olazabal-Loumé M. [Mesh regularization of ablating hypersonic vehicles](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/). In _8th European
@@ -98,7 +98,7 @@ _Bordeaux, France_
 **Mar. 6 - 9, 2023**  
 _Amsterdam, Netherlands_  
 SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023).  
-[Details of the Talk](https://claireroche.github.io/talk/2023/03/08/talk-imr/)   
+[Details of the Talk](https://claireroche.github.io/paper/talk/poster/2023/03/08/paper-imr/)   
 
 **Jun. 5 - 9, 2022**  
 _Oslo, Norway_  
@@ -110,7 +110,7 @@ _Oslo, Norway_
 **Mar. 7, 2023**  
 _Amsterdam, Netherlands_  
 _"Block-structured quad meshing for supersonic flow simulations"_. SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023).  
-[Details of the Poster](https://claireroche.github.io/poster/2023/03/07/poster-imr/)  
+[Details of the Poster](https://claireroche.github.io/paper/talk/poster/2023/03/08/paper-imr/)  
 
 **Dec. 8, 2022**  
 _Paris, France_  
