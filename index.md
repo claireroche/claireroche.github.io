@@ -16,7 +16,7 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 </center>
 
 <center>
-{% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#000000" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/claire-roche/" color="#0366d6" %} {% include button.html text="ORCID" icon="orcid" link="https://orcid.org/0000-0001-7763-574X" color="#a6ce39" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#000000" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/claire-roche/" color="#0366d6" %} {% include button.html text="ORCID" icon="orcid" link="https://orcid.org/0000-0001-7763-574X" color="#a6ce39" %} {% include button.html text="Google Scholar" icon="googlescholar" link="https://scholar.google.com/citations?user=rEOPG3kAAAAJ&hl=fr" color="#a0c3ff" %}
 </center>
 
 
