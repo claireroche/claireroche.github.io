@@ -13,6 +13,8 @@ excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for at
 
 <h2> Claire ROCHE </h2>
 
+<h3> PhD in Applied Mathematics and Computer Science </h3>
+
 </center>
 
 <center>
