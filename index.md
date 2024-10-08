@@ -2,7 +2,7 @@
 feature_text: |
   
 feature_image: "https://raw.githubusercontent.com/claireroche/claireroche.github.io/main/images/lilly.png"
-excerpt: "Ph.D student at CEA working on generation of 3d hexahedral mesh for atmospheric re-entry."
+excerpt: "PhD in Applied Mathematics and Computer Science"
 ---
 
 <center>
