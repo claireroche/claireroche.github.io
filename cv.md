@@ -13,7 +13,7 @@ aside: true
 
 * **Meshing Software Engineer**
   * **Oct. 2024 - Now**
-  * _Siemens_
+  * _Siemens Digital Industry Software_
 
 * **Ph.D** in Applied Mathematics and Computer Science
   * **Oct. 2021 - Oct. 2024**
