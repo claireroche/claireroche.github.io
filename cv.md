@@ -9,10 +9,44 @@ aside: true
 
 [PDF version](https://raw.githubusercontent.com/claireroche/claireroche.github.io/7b5e3c58ff685c81888756da4780ad3d6fa45248/assets/ROCHE_Resume.pdf)
 
+## Work Experience
+
+* **Meshing Software Engineer*
+  * **Oct. 2024 - Now**
+  * _Siemens_
+
+* **Ph.D** in Applied Mathematics and Computer Science
+  * **Oct. 2021 - Oct. 2024**
+  * _[LiHPC](https://www-lihpc.cea.fr/fr/) (Paris-Saclay University, CEA), France_
+  * _Supervisors:_ [Franck LEDOUX](https://franck-ledoux.github.io/), Jérôme BREIL, Thierry HOCQUELLET
+  * Hexahedral Curved Block-Structured Mesh Generation for Atmospheric Re-Entry
+    * Development of an advancing front algorithm for linear hexahedral block structure generation around a vehicle, dedicated to flow simulation around the vehicle.
+    * A posteriori block curving using Bézier elements to approximate the surface of the vehicle and discretization of the curved blocks.
+    * Mesh quality analysis through purely geometrical criteria, and practical cases of numerical simulations.
+  * C++, Paraview, SU2 CFD, Git
+
+
+* **Internship** on high-order mesh rp-adaptivity for multi-material interface alignment.
+  * **May 2023 - Aug. 2023**
+  * _Lawrence Livermore National Laboratory, United-States_
+  * _Supervisor:_ Ketan MITTAL
+  * C++, Git
+  * _Details available on [Paper SIAM IMR 2024](https://claireroche.github.io/paper/2024/03/07/paper-imr/)_
+  
+  
+* **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
+  * **Feb. 2021 - Aug. 2021**
+  * _CEA, France_
+  * _Supervisors:_ Marina OLAZABAL-LOUME, Jérôme BREIL
+  * Implementation of methods for refinement, regularization and adaptation of structured meshes. 
+  * Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
+  * Fortran 90, Paraview, Visit
+  * _Details available on [Proceeding ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
+
 ## Education
 
 * **Ph.D in Applied Mathematics & Computer Science.** 
-  * **2024 (expected)**
+  * **2024**
   * _The French Alternative Energies and Atomic Energy Commission (CEA) & Paris-Saclay University_  
   * <u>Title:</u> 3D block-structured automatic mesh generation for atmospheric reentry computational fluid dynamics
   
@@ -37,34 +71,6 @@ aside: true
   * **2016-2018**  
   * _Camille-Jullian, Bordeaux, France_
   * Preparatory classes for French selective engineering schools
-
-## Work Experience
-
-* **Ph.D**
-  * **Oct. 2021 - Oct. 2024 (expected)**
-  * _The French Alternative Energies and Atomic Energy Commission (CEA) & Paris-Saclay University, France_
-  * _Supervisors:_ [Franck LEDOUX](https://franck-ledoux.github.io/), Jérôme BREIL, Thierry HOCQUELLET
-  * Development of an advancing front algorithm for linear hexahedral block structure generation around a vehicle, dedicated to flow simulation around the vehicle.
-  * A posteriori block curving using Bézier elements to approximate the surface of the vehicle and discretization of the curved blocks.
-  * C++, Paraview, SU2 CFD, Git
-
-
-* **Internship** on high-order mesh rp-adaptivity for multi-material interface alignment.
-  * **May 2023 - Aug. 2023**
-  * _Lawrence Livermore National Laboratory, United-States_
-  * _Supervisor:_ Ketan MITTAL
-  * C++, Git
-  * _Details available on [Paper SIAM IMR 2024](https://claireroche.github.io/paper/2024/03/07/paper-imr/)_
-  
-  
-* **Internship** on consideration of wall deformations in the simulation of aerodynamic flows.
-  * **Feb. 2021 - Aug. 2021**
-  * _CEA, France_
-  * _Supervisors:_ Marina OLAZABAL-LOUME, Jérôme BREIL
-  * Implementation of methods for refinement, regularization and adaptation of structured meshes. 
-  * Application to simulations of hypersonic flows using a stationary/unsteady 3D Navier-Stokes CFD code.
-  * Fortran 90, Paraview, Visit
-  * _Details available on [Proceeding ECCOMAS 2022](https://claireroche.github.io/conference%20proceeding/2022/11/24/eccomas-proceeding/)_
 
 
 ## Publications
