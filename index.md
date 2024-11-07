@@ -23,7 +23,7 @@ excerpt: "PhD, Meshing Software Engineer"
 
 
 <div style="text-align: justify">
-I am currently a Meshing Software Engineer, working at _Siemens Digital Industry Software_.
+I am currently a Meshing Software Engineer, working at <em>Siemens Digital Industry Software</em>.
 
 I defended my PhD work on **Hexahedral Curved Block-Structured Mesh Generation for Atmospheric Re-Entry** in October, 2024.
 This thesis aims to provide a method to generate automatic hexahedral block-structured mesh dedicated to a Computational Fluid Dynamics code, developed for atmospheric re-entry.
