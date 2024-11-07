@@ -147,7 +147,7 @@ poster award.
 
 |                                  |                                                                                      |
 |:------------------------------------------|:-------------------------------------------------------------------------------------|
-| **Programming**                           | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown                                  |
-| **Softwares**                             | CLion, gmds, Paraview, Visit, SU2 CFD                                                |
+| **Programming**                           | Fortran 90, C++, Python, Git, Latex, TikZ, MarkDown, Linux                           |
+| **Softwares**                             | CLion, Gmsh, Paraview, Visit, SU2 CFD                                                |
 | **Communication**&nbsp;&nbsp;&nbsp;&nbsp; | French (native), English (B2 - TOEIC:870), Spanish (beginner)                        |
 | **Other**                                 | Mesh Generation, Numerical Analysis, Numerical Methods, Computational Fluid Dynamics |
