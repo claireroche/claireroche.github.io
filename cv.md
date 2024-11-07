@@ -11,7 +11,7 @@ aside: true
 
 ## Work Experience
 
-* **Meshing Software Engineer*
+* **Meshing Software Engineer**
   * **Oct. 2024 - Now**
   * _Siemens_
 
@@ -47,8 +47,8 @@ aside: true
 
 * **Ph.D in Applied Mathematics & Computer Science.** 
   * **2024**
-  * _The French Alternative Energies and Atomic Energy Commission (CEA) & Paris-Saclay University_  
-  * <u>Title:</u> 3D block-structured automatic mesh generation for atmospheric reentry computational fluid dynamics
+  * _[LiHPC](https://www-lihpc.cea.fr/fr/) (Paris-Saclay University, CEA), France_
+  * <u>Title:</u> Hexahedral Curved Block-Structured Mesh Generation for Atmospheric Re-Entry
   
 
 * **Engineer Degree in Applied Mathematics and Mechanics.**
