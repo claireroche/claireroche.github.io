@@ -95,7 +95,7 @@ defaults:
 encoding: utf-8				# Make sure the encoding is right
 lang: en-GB 		  	        # Set the site language
 title: "Claire Roche" 		        # Site name or title, also used in jekyll-seo-tag
-logo: "/images/wind-chime-svgrepo-com.svg" 	        # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo@32px.png" 	        # Site logo, also used in jekyll-seo-tag
 description: "PhD, Meshing Software Engineer" # Site description and default description, also used in jekyll-seo-tag
 url: "https://claireroche.github.io/" 	        # Site url, also used in jekyll-seo-tag
 baseurl: ""
