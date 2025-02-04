@@ -7,7 +7,7 @@ excerpt: "PhD, Meshing Software Engineer"
 
 <center>
 <!-- {% include figure.html image="/images/ID.png" position="right" width="150" border-radius="50%" %} -->
-<img src="/images/ID.png" height="auto" position="right" width="150" style="border-radius:20%">
+<img src="/images/ID.jpg" height="auto" position="right" width="150" style="border-radius:20%">
 
 <br>
 
