@@ -12,7 +12,6 @@ excerpt: "PhD, Meshing Software Engineer"
 <br>
 
 <h2> Claire ROCHE </h2>
-
 <h3> PhD, Meshing Software Engineer </h3>
 
 </center>
