@@ -20,9 +20,10 @@ excerpt: "PhD, Meshing Software Engineer"
 {% include button.html text="GitHub" icon="github" link="https://github.com/claireroche" color="#000000" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/claire-roche/" color="#0366d6" %} {% include button.html text="ORCID" icon="orcid" link="https://orcid.org/0000-0001-7763-574X" color="#a6ce39" %} {% include button.html text="Google Scholar" icon="googlescholar" link="https://scholar.google.com/citations?user=rEOPG3kAAAAJ&hl=fr" color="#a0c3ff" %}
 </center>
 
+  
 
 <div style="text-align: justify">
-I am currently a Meshing Software Engineer, working at <em>Siemens Digital Industry Software</em>.
+I am currently a Meshing Research Engineer.
 
 I defended my PhD work on <b>Hexahedral Curved Block-Structured Mesh Generation for Atmospheric Re-Entry</b> in October, 2024.
 This thesis aims to provide a method to generate automatic hexahedral block-structured mesh dedicated to a Computational Fluid Dynamics code, developed for atmospheric re-entry.
@@ -31,6 +32,7 @@ In this work, under conditions on the physical domains to mesh, we developped an
 
 The following animation aims to demonstrate the different steps of the algorithm developed during my PhD to generate block-structured meshes suitable for Computational Fluid Dynamics simulations of flows around vehicles during atmospheric re-entry.
 </div>
+  
 
 <center>
 <iframe src="https://cea.hal.science/cea-04622270v1/document" height="399" width="710" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
