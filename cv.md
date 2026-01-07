@@ -11,8 +11,12 @@ aside: true
 
 ## Work Experience
 
+* **Meshing Research Engineer**
+  * **Dec. 2025 - Now**
+  * _CEA_
+
 * **Meshing Software Engineer**
-  * **Oct. 2024 - Now**
+  * **Oct. 2024 - Dec. 2025**
   * _Siemens Digital Industry Software_
 
 * **Ph.D** in Applied Mathematics and Computer Science
