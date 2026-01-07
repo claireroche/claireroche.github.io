@@ -12,7 +12,7 @@ excerpt: "PhD, Meshing Software Engineer"
 <br>
 
 <h2> Claire ROCHE </h2>
-<h3> PhD, Meshing Software Engineer </h3>
+<h3> PhD, Meshing Research Engineer </h3>
 
 </center>
 
@@ -21,7 +21,7 @@ excerpt: "PhD, Meshing Software Engineer"
 </center>
 
   
-
+<p>
 <div style="text-align: justify">
 I am currently a Meshing Research Engineer.
 
@@ -32,6 +32,7 @@ In this work, under conditions on the physical domains to mesh, we developped an
 
 The following animation aims to demonstrate the different steps of the algorithm developed during my PhD to generate block-structured meshes suitable for Computational Fluid Dynamics simulations of flows around vehicles during atmospheric re-entry.
 </div>
+</p>
   
 
 <center>
